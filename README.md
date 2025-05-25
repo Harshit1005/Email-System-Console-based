@@ -64,5 +64,5 @@ CRUD operations
 Layered Architecture (Model → DAO → Service → UI)
 
 # Project Structure
-![MENU]("IMAGES/MENU.png")
+![MENU]("https://github.com/Harshit1005/Email-System-Console-based/blob/579c0de91df26b8d38db41c7cdba172b6b6b549b/MENU.png")
 
