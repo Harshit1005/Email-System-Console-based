@@ -64,5 +64,5 @@ CRUD operations
 Layered Architecture (Model → DAO → Service → UI)
 
 # Project Structure
-![EMAIL SYSTEM MENU]("C:\Users\harshit Upadhyay\Pictures\Screenshots\Screenshot 2025-05-25 173831.png")
+![EMAIL SYSTEM MENU]("IMAGES/EMAIL-SYSTEM-MENU")
 
