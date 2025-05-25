@@ -55,3 +55,14 @@ Feature	Description
 |       Email          | <-- Model
 +----------------------+
 
+# 📚 Concepts Covered
+Java Classes & Objects
+Inheritance & Encapsulation
+File Handling (BufferedReader/Writer)\
+Modular Programming
+CRUD operations
+Layered Architecture (Model → DAO → Service → UI)
+
+# Project Structure
+![EMAIL SYSTEM MENU]("C:\Users\harshit Upadhyay\Pictures\Screenshots\Screenshot 2025-05-25 173831.png")
+
