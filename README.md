@@ -64,5 +64,5 @@ CRUD operations
 Layered Architecture (Model → DAO → Service → UI)
 
 # Project Structure
-![MENU]("images/MENU.png")
+![MENU]("IMAGES/MENU.png")
 
